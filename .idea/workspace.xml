@@ -1,0 +1,252 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="6df017c6-ad71-41f1-a306-cf9cecbb8dfa" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../dev/.idea/dev.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitattributes" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/.gitattributes" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/gradlew" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradlew.bat" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/gradlew.bat" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/settings.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/settings.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/ServletApplication.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/ServletApplication.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/ServletInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/ServletInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/basic/HelloData.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/basic/HelloData.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/basic/HelloServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/basic/HelloServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/basic/request/RequestBodyStringServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/basic/request/RequestBodyStringServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/basic/request/RequestBoydJsonServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/basic/request/RequestBoydJsonServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/basic/request/RequestHeaderServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/basic/request/RequestHeaderServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/basic/request/RequestParamServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/basic/request/RequestParamServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/basic/response/ResponseHeaderServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/basic/response/ResponseHeaderServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/basic/response/ResponseHtmlServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/basic/response/ResponseHtmlServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/basic/response/ResponseJsonServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/basic/response/ResponseJsonServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/domain/member/Member.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/domain/member/Member.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/domain/member/MemberRepository.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/domain/member/MemberRepository.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/frontcontroller/ModelView.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/frontcontroller/ModelView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/frontcontroller/MyView.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/frontcontroller/MyView.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/frontcontroller/v1/ControllerV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/frontcontroller/v1/ControllerV1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/frontcontroller/v1/FrontControllerServeltV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/frontcontroller/v1/FrontControllerServeltV1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/frontcontroller/v1/controller/MemberFormControllerV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/frontcontroller/v1/controller/MemberFormControllerV1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/frontcontroller/v1/controller/MemberListControllerV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/frontcontroller/v1/controller/MemberListControllerV1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/frontcontroller/v1/controller/MemberSaveControllerV1.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/frontcontroller/v1/controller/MemberSaveControllerV1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/frontcontroller/v2/ControllerV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/frontcontroller/v2/ControllerV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/frontcontroller/v2/FrontControllerServeltV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/frontcontroller/v2/FrontControllerServeltV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/frontcontroller/v2/controller/MemberFormControllerV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/frontcontroller/v2/controller/MemberFormControllerV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/frontcontroller/v2/controller/MemberListControllerV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/frontcontroller/v2/controller/MemberListControllerV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/frontcontroller/v2/controller/MemberSaveControllerV2.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/frontcontroller/v2/controller/MemberSaveControllerV2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/frontcontroller/v3/ControllerV3.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/frontcontroller/v3/ControllerV3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/frontcontroller/v3/FrontControllerServeltV3.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/frontcontroller/v3/FrontControllerServeltV3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/frontcontroller/v3/controller/MemberFormControllerV3.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/frontcontroller/v3/controller/MemberFormControllerV3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/frontcontroller/v3/controller/MemberListControllerV3.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/frontcontroller/v3/controller/MemberListControllerV3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/frontcontroller/v3/controller/MemberSaveControllerV3.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/frontcontroller/v3/controller/MemberSaveControllerV3.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/frontcontroller/v4/ControllerV4.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/frontcontroller/v4/ControllerV4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/frontcontroller/v4/FrontControllerServeltV4.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/frontcontroller/v4/FrontControllerServeltV4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/frontcontroller/v4/controller/MemberFormControllerV4.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/frontcontroller/v4/controller/MemberFormControllerV4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/frontcontroller/v4/controller/MemberListControllerV4.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/frontcontroller/v4/controller/MemberListControllerV4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/frontcontroller/v4/controller/MemberSaveControllerV4.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/frontcontroller/v4/controller/MemberSaveControllerV4.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/servlet/MemberFormServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/servlet/MemberFormServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/servlet/MemberListServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/servlet/MemberListServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/servlet/MemberSaveServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/servlet/MemberSaveServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/servletmvc/MvcMemberFormServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/servletmvc/MvcMemberFormServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/servletmvc/MvcMemberListSerlvet.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/servletmvc/MvcMemberListSerlvet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/hello/servlet/web/servletmvc/MvcMemberServlet.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/java/hello/servlet/web/servletmvc/MvcMemberServlet.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/application.properties" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/resources/application.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/members.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/webapp/WEB-INF/views/members.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/new-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/webapp/WEB-INF/views/new-form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/views/save-result.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/webapp/WEB-INF/views/save-result.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/basic.html" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/webapp/basic.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/basic/hello-form.html" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/webapp/basic/hello-form.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/webapp/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/members.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/webapp/jsp/members.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/members/new-form.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/webapp/jsp/members/new-form.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/webapp/jsp/members/save.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/main/webapp/jsp/members/save.jsp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hello/servlet/ServletApplicationTests.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/test/java/hello/servlet/ServletApplicationTests.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/hello/servlet/domain/member/MemberRepositoryTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/servlet/src/test/java/hello/servlet/domain/member/MemberRepositoryTest.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="servlet" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="KubernetesApiPersistence">{}</component>
+  <component name="KubernetesApiProvider">{
+  &quot;isMigrated&quot;: true
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="3AVSYmxQXgOcvpr6KXOzRanFW3E" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Gradle.Build servlet.executor": "Run",
+    "Gradle.Download Sources.executor": "Run",
+    "JUnit.MemberRepositoryTest.executor": "Run",
+    "JUnit.MemberRepositoryTest.findAll.executor": "Run",
+    "JUnit.MemberRepositoryTest.save.executor": "Run",
+    "ModuleVcsDetector.initialDetectionPerformed": "true",
+    "RequestMappingsPanelOrder0": "0",
+    "RequestMappingsPanelOrder1": "1",
+    "RequestMappingsPanelWidth0": "75",
+    "RequestMappingsPanelWidth1": "75",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "RunOnceActivity.typescript.service.memoryLimit.init": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "Spring Boot.ServletApplication.executor": "Run",
+    "git-widget-placeholder": "master",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/SSAFY/Desktop/servlet",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "reference.projectsettings.compiler.annotationProcessors",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\SSAFY\Desktop\servlet\src\main\webapp\basic" />
+      <recent name="C:\Users\SSAFY\Desktop\servlet\src\main" />
+      <recent name="C:\Users\SSAFY\Desktop\servlet\src\main\" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Spring Boot.ServletApplication">
+    <configuration name="MemberRepositoryTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="servlet.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.servlet.domain.member.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello.servlet.domain.member" />
+      <option name="MAIN_CLASS_NAME" value="hello.servlet.domain.member.MemberRepositoryTest" />
+      <option name="TEST_OBJECT" value="class" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberRepositoryTest.findAll" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="servlet.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.servlet.domain.member.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello.servlet.domain.member" />
+      <option name="MAIN_CLASS_NAME" value="hello.servlet.domain.member.MemberRepositoryTest" />
+      <option name="METHOD_NAME" value="findAll" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MemberRepositoryTest.save" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="servlet.test" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="hello.servlet.domain.member.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="hello.servlet.domain.member" />
+      <option name="MAIN_CLASS_NAME" value="hello.servlet.domain.member.MemberRepositoryTest" />
+      <option name="METHOD_NAME" value="save" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ServletApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" nameIsGenerated="true">
+      <module name="servlet.main" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="hello.servlet.ServletApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MemberRepositoryTest" />
+        <item itemvalue="JUnit.MemberRepositoryTest.findAll" />
+        <item itemvalue="JUnit.MemberRepositoryTest.save" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-30f59d01ecdd-26cb7f24e5b0-intellij.indexing.shared.core-IU-253.29346.240" />
+        <option value="bundled-js-predefined-d6986cc7102b-9b0f141eb926-JavaScript-IU-253.29346.240" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6df017c6-ad71-41f1-a306-cf9cecbb8dfa" name="Changes" comment="" />
+      <created>1772676294737</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1772676294737</updated>
+      <workItem from="1772676296095" duration="7467000" />
+      <workItem from="1772757519420" duration="3000" />
+      <workItem from="1772757723134" duration="5622000" />
+      <workItem from="1772770608171" duration="2136000" />
+      <workItem from="1772778889721" duration="6417000" />
+      <workItem from="1773287380841" duration="18000" />
+      <workItem from="1773374850887" duration="491000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
+  </component>
+</project>
